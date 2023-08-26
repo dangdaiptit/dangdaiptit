@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dangdaiptit&label=Profile%20views&color=0e75b6&style=flat" alt="dangdaiptit" /> </p>
 
-- 🔭 I’m currently working on **Miraisoft**
+- 🔭 I’m currently working on **OneMount**
 
 - 🌱 I’m currently learning **springboot, angular, microservice, docker**
 
